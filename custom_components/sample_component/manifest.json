@@ -1,0 +1,9 @@
+{
+  "domain": "sample_component",
+  "name": "Sample Component",
+  "version": "1.0.0",
+  "documentation": "https://github.com/ken-hacs-2025/ha-sample-component",
+  "dependencies": [],
+  "codeowners": ["@ken-hacs-2025"],
+  "requirements": []
+}
